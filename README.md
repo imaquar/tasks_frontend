@@ -12,4 +12,4 @@
 
 6. Выполнить команду: docker ps (для получения id контейнера).
 
-7. Выполнить команду: docker stop id_of_container (для остановки контейнера)
+7. Выполнить команду: docker stop id_of_container
